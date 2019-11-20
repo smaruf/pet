@@ -1,5 +1,5 @@
 ## Flying machine
 Virtual flying machine with graphical interface.
 
-# Environment
+## Environment
 Java, Go, Arduino, C++
