@@ -1,5 +1,5 @@
-# Pet
-Self pet projects for performance improve
+## Flying machine
+Virtual flying machine with graphical interface.
 
-# Platforms
-Spring mvc, JPA, Spring security, Cloud oAuth
+# Environment
+Java, Go, Arduino, C++
